@@ -1,0 +1,23 @@
+h1{
+    color: #E8630A;
+}
+
+body{
+    text-align: center;
+}
+
+a:link,a:visited{
+    color: #001E6C;
+}
+
+h2{
+    color: #035397;
+}
+
+h3{
+    color: #FCD900;
+}
+
+ul{
+    list-style-position: inside
+}
